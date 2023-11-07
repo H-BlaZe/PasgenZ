@@ -1,4 +1,4 @@
-# PasgenZ
+# PassgenZ
 
 This Python code is for a straightforward password generator application with a user-friendly graphical interface built using the Tkinter library. Its purpose is to allow users to create customized passwords based on their preferences. Users can choose to include uppercase and lowercase letters, numbers, and special characters in their passwords. The code comprises three main functions:
 
